@@ -5,7 +5,7 @@ Sensor de Temperatura: https://github.com/ElCalak/Sensor-de-temperatura-LM35-par
 
 Esta estacion del clima esta pensada para trabajar en Raspberry pi pico o Raspberry pi pico W
 mediante el uso de una pantalla LCD 16x2 en la que visualizaremos valores
-un LM35 y un sensor de humedad de suelo contruido por nostros pero compatible para cualquier sensor de humedad que pueda obtener valores analogicos
+de un LM35 y un sensor de humedad de suelo contruido por nostros pero compatible para cualquier sensor de humedad que pueda obtener valores analogicos
 
 Creditos a T-622 de quien tomamos las librerias para el control del LCD con I2C
 Repositorio: https://github.com/T-622/RPI-PICO-I2C-LCD
